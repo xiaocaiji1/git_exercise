@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("第二次提交");
         System.out.println("分支添加");
+        System.out.println("模拟冲突 host_fix");
     }
 }
